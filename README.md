@@ -43,23 +43,23 @@ As developers, this is sometimes the most straightforward way to contribute. Add
 
 As always, usually the best way to contribute is to pick an issue and chat about it before you create a pull request.
 
-#### 3. Evangelizing
+### 3. Evangelizing
 
 Sometimes the best way to help a project like AsyncAPI is to simply talk about it. It can be inside your company, in a technology meetup or speaking at a conference. I'll be happy to help with whatever material you need to create or with argumens to convince your colleagues that using AsyncAPI is a good idea :blush:
 
-#### 4. Documentation
+### 4. Documentation
 
 Oh! documentation! We're trying to convince people that documenting your message-driven APIs is a good idea, but we lack documentation, especially in tooling. This is often a task nobody wants to do, but the best way get a great knowledge about a technology is to write documentation about it. It doesn't need to be rewriting the whole documentation from scratch, but just identifying the questions you had when started to use it and write the answers.
 
-#### 5. Tutorials
+### 5. Tutorials
 
 We learn by examples. It's a fact. Write tutorials on how to use AsyncAPI in your blog or in Medium. As always, count on me if you need ideas or help while writing or reviewing.
 
-#### 6. Stories
+### 6. Stories
 
 You have a blog and write about the technology you use? Writing about success stories, how-to's, etc., really helps people to find the project and decide whether they should bet on AsyncAPI or not.
 
-#### 7. Podcasts/Videos
+### 7. Podcasts/Videos
 
 You have a Youtube channel or your own podcast? Talk about AsyncAPI. Tutorials, interviews, informal chats, discussions, panels, etc. I'll be happy to help with any material you need or finding the right person for your interview.
 
