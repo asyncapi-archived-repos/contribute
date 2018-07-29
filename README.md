@@ -21,7 +21,7 @@ Here you can find a list of things you can contribute with:
 4. [Documentation](#4-documentation)
 5. [Tutorials](#5-tutorials)
 6. [Stories](#6-stories)
-7. [Podcasts/Videos](#7-podcasts-videos)
+7. [Podcasts/Videos](#7-podcastsvideos)
 
 ### 1. The specification
 
