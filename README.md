@@ -38,6 +38,9 @@ As developers, this is sometimes the most straightforward way to contribute. Add
   - https://github.com/asyncapi/generator
   - https://github.com/asyncapi/docgen (going to be deprecated soon in favor of the https://github.com/asyncapi/generator)
   - https://github.com/Mermade/widdershins
+* https://github.com/asyncapi/asyncapi-node
+* https://github.com/asyncapi/editor
+* Validation CLI tool (nobody implemented it yet)
 * API mocking (nobody implemented it yet)
 * API gateways (nobody implemented it yet)
 
