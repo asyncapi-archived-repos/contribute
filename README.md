@@ -49,7 +49,7 @@ Sometimes the best way to help a project like AsyncAPI is to simply talk about i
 
 ### 4. Documentation
 
-Oh! documentation! We're trying to convince people that documenting your message-driven APIs is a good idea, but we lack documentation, especially in tooling. This is often a task nobody wants to do, but the best way get a great knowledge about a technology is to write documentation about it. It doesn't need to be rewriting the whole documentation from scratch, but just identifying the questions you had when started to use it and write the answers.
+Oh! documentation! We're trying to convince people that documenting your message-driven APIs is a good idea, but we lack documentation, especially in tooling. This is often a task nobody wants to do, but the best way to get great knowledge about a technology is to write documentation about it. It doesn't need to be rewriting the whole documentation from scratch, but just identifying the questions you had when started to use it and write the answers.
 
 ### 5. Tutorials
 
