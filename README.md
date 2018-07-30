@@ -3,7 +3,7 @@ This document contains useful information in case you want to become a contribut
 
 #### A letter from the author
 
-> AsyncAPI is an open source project that's currently maintained by me, with no company or funds behind. More and more companies are using AsyncAPI and the work needed to keep the specification, tooling, and documentation up to date is becoming too much work for a single person working in his spare time. One could argue that I should be dedicating full time to the project, but it's in this point where it's too much for spare time and very little to get enough money to live. I want to keep everything for free, because I firmly believe that engineering must be democratized. Also, don't get me wrong. This is not a complaint, I'm going to continue running the project either with or without contributors, because I love it. This is just a call-out to you, the AsyncAPI lover. I'd be very grateful if you could lend a hand, or event raise your hand a become a co-maintainer. Up to you :blush:
+> AsyncAPI is an open source project that's currently maintained by me, with no company or funds behind. More and more companies are using AsyncAPI and the work needed is becoming too much work for a single person working in his spare time. E.g., for each release of the specification, tooling and documentation should be updated. One could argue that I should be dedicating full time to the project, but it's in this point where it's too much for spare time and very little to get enough money to live. I want to keep everything for free, because I firmly believe that engineering must be democratized. Also, don't get me wrong, this is not a complaint. I'm going to continue running the project either with or without contributors, because I love it. This is just a call-out to you, the AsyncAPI lover. I'd be very grateful if you could lend a hand, or even raise your hand and become a co-maintainer. Up to you :blush:
 >
 > On the other hand, I only have good words for all of you who use and/or contribute to the project. Without you, it would be just another crazy idea from another crazy developer :smile:
 >
@@ -33,10 +33,10 @@ As developers, this is sometimes the most straightforward way to contribute. Add
 
 * Code generators (multiple languages):
   - https://github.com/asyncapi/generator
-  - https://github.com/asyncapi/node-codegen (going to be deprecated soon in favor of the https://github.com/asyncapi/generator)
+  - https://github.com/asyncapi/node-codegen (going to be deprecated soon in favor of https://github.com/asyncapi/generator)
 * Documentation generators (multiple formats)
   - https://github.com/asyncapi/generator
-  - https://github.com/asyncapi/docgen (going to be deprecated soon in favor of the https://github.com/asyncapi/generator)
+  - https://github.com/asyncapi/docgen (going to be deprecated soon in favor of https://github.com/asyncapi/generator)
   - https://github.com/Mermade/widdershins
 * https://github.com/asyncapi/asyncapi-node
 * https://github.com/asyncapi/editor
@@ -48,15 +48,15 @@ As always, usually the best way to contribute is to pick an issue and chat about
 
 ### 3. Evangelizing
 
-Sometimes the best way to help a project like AsyncAPI is to simply talk about it. It can be inside your company, in a technology meetup or speaking at a conference. I'll be happy to help with whatever material you need to create or with argumens to convince your colleagues that using AsyncAPI is a good idea :blush:
+Sometimes the best way to help a project like AsyncAPI is to simply talk about it. It can be inside your company, in a technology meetup or speaking at a conference. I'll be happy to help with whatever material you need to create or with arguments to convince your colleagues that using AsyncAPI is a good idea :blush:
 
 ### 4. Documentation
 
-Oh! documentation! We're trying to convince people that documenting your message-driven APIs is a good idea, but we lack documentation, especially in tooling. This is often a task nobody wants to do, but the best way to get great knowledge about a technology is to write documentation about it. It doesn't need to be rewriting the whole documentation from scratch, but just identifying the questions you had when started to use it and write the answers.
+Oh! documentation! We're trying to convince people that documenting your message-driven APIs is a good idea, but we lack documentation, especially in tooling. This is often a task nobody wants to do, but the best way to get great knowledge about a technology is to write documentation about it. It doesn't need to be rewriting the whole documentation from scratch, but just identifying the questions you had when started using it and document them.
 
 ### 5. Tutorials
 
-We learn by examples. It's a fact. Write tutorials on how to use AsyncAPI in your blog or in Medium. As always, count on me if you need ideas or help while writing or reviewing.
+We learn by examples. It's a fact. Write tutorials on how to use AsyncAPI in your blog, Medium, etc. As always, count on me if you need ideas or help while writing or reviewing.
 
 ### 6. Stories
 
